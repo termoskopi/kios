@@ -21,7 +21,7 @@ FFMPEG_CONF_OPTS = \
 	--enable-static \
 	--disable-shared \
 	--enable-mmal \
-	--enable-omx-rpid \
+	--enable-omx-rpi \
 	--enable-omxd \
 	--enable-avfilter \
 	--disable-version3 \
