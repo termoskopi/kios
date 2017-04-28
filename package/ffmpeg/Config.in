@@ -30,6 +30,7 @@ config BR2_PACKAGE_FFMPEG_FFMPEG
 	  FFmpeg is a very fast video and audio converter.
 	  It can also grab from a live audio/video source.
 
+
 	  It is not needed if you want to link the FFmpeg libraries
 	  to your application.
 
