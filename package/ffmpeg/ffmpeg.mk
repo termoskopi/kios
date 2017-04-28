@@ -20,7 +20,7 @@ FFMPEG_CONF_OPTS = \
 	--prefix=/usr \
 	--enable-static \
 	--disable-shared \
-	--enable-mmald \
+	--enable-mmal \
 	--enable-omx-rpid \
 	--enable-omxd \
 	--enable-avfilter \
