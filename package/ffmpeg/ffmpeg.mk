@@ -22,7 +22,7 @@ FFMPEG_CONF_OPTS = \
 	--disable-shared \
 	--enable-mmal \
 	--enable-omx-rpi \
-	--enable-omxd \
+	--enable-omx \
 	--enable-avfilter \
 	--disable-version3 \
 	--enable-logging \
